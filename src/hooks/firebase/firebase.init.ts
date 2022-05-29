@@ -1,5 +1,4 @@
 import { initializeApp } from 'firebase/app';
-
 // web app's Firebase configuration
 const firebaseConfig = {
     apiKey: process.env.REACT_APP_API_KEY,

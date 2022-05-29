@@ -26,7 +26,6 @@ const themeSlice = createSlice({
         },
     },
 });
-
 export default themeSlice.reducer;
 export const { toggleColorMode, toggleFullSideBar, setColorMode } =
     themeSlice.actions;

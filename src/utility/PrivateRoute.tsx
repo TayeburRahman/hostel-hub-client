@@ -11,5 +11,4 @@ function PrivateRoute() {
         <Navigate to="/login" state={`${location.pathname}`} replace />
     );
 }
-
 export default PrivateRoute;

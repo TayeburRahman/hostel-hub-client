@@ -65,7 +65,6 @@ const hostel = {
     totalSit: 0,
     _id: '',
 };
-
 interface UsersState {
     user: IUser;
     loading: 'idle' | 'pending' | 'succeeded' | 'failed';

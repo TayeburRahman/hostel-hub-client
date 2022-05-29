@@ -13,5 +13,4 @@ const globals = {
         transition: 'color 150ms ease-in !important',
     },
 };
-
 export default globals;
