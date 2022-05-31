@@ -1,5 +1,4 @@
 [
-   
     {
         "id": 888,
         "first_name": "Octavia",
@@ -190,6 +189,7 @@
         "rating": 3,
         "price": 3162
     },
+
     {
         "id": 907,
         "first_name": "Seward",
